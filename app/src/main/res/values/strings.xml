@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">FoolyKhady</string>
+    <string name="dev_name">
+        Abdoul Karim DIALLO
+    </string>
+    
+    <string name="titre_dev">
+        <br>
+            Developpeur Web et Web Mobile
+        </br>
+    </string>
+    <string name="image_profile">image_profile</string>
+    <string name="age">Age</string>
+    <string name="age_dev">24 ans</string>
+    <string name="adresse">Dakar Khar Yallah Boulangerie Bamba</string>
+    <string name="adresse1">Adresse</string>
+    <string name="telelphone">Telephone</string>
+    <string name="number">+221 78 165 99 48</string>
+    <string name="email">Email</string>
+    <string name="electronique_adresse">abdoulkarimfoly1996@gmail.com</string>
+    <string name="about_me">À PROPOS DE MOI</string>
+    <string name="icone_rs">les icones de reseaux sociaux</string>
+    <string name="text_me">Je suis un jeune diplômé d’une Licence professionnelle en Génie informatique, spécialité Système Réseaux et Télécoms (SRT) de l’Université Dakar Bourguiba (UDB), ambitieux des TIC, je cherche un emploi durable en tant que développeur web ou administrateur Réseau et Système, je souhaiterai apprendre et apporter mes compétences au sein d’une équipe soudée et passionnée</string>
+    <string name="personnal_quality">QUALITES PERSONNELLES</string>
+    <string name="formation">FORMATIONS/CERTIFICATIONS</string>
+    <string name="formation_libelle">Licence 3 en Système Réseau et Télécoms
+Université Dakar Bourguiba (UDB)
+Diplome: ATTESTATION DE REUSSITE</string>
+    <string name="formation_libelle1">Licence 2 en Genie Informatique a L’Université Gamal Abdel Nasser de conakry (UGANC).</string>
+    <string name="formation_libelle2">Licence 1 en Genie Informatique a L’Université Gamal Abdel Nasser de conakry (UGANC).</string>
+    <string name="formation_libelle3">Science Mathématiques au Lycée Coleah.
+Diplome: Bachelier du Second Degré.
+Mention: Bien </string>
+    <string name="date1">2019 2020</string>
+    <string name="date2">2017 2018</string>
+    <string name="date3">2016 2017</string>
+    <string name="date4">2013 2016</string>
+    <string name="experience_me">EXPERIENCES</string>
+    <string name="simplon_senegal">2021 Simplon Senegal</string>
+    <string name="contenu_simplon">La realisation d’un site web et web mobile pour simplon senegal
+maquette avec figma et l’integration avec HTML/CSS
+    </string>
+    <string name="experience1">2020 Universite Dakar Bourguiba</string>
+    <string name="contenu_experience1">Realisation d’un site pour la gestion des apprenannts avec la technologie JAVA (JavaFx)</string>
+
+    <string name="experience2">2020 Freelence</string>
+    <string name="contenu_experience2">Realisation d’un site e-commerce avec le CMS WordPress pour un particulier</string>
+
+    <string name="experience3">2020 Universite Dakar Bourguiba</string>
+    <string name="contenu_experience3">Etude et la mise en place d’une solution d’interconnexion de sites
+avec la technologie VPN IPsec</string>
+    <string name="contact_me">CONTACT</string>
+    <string name="envoyermessage">Envoyer</string>
+    <string name="message">Veuillez saisir ici votre message</string>
+    <string name="objet">Objet</string>
+    <string name="imageprof">le prof formateur</string>
+    <string name="mail">Email</string>
+    <string name="nameprof">Nom</string>
+    <string name="lastname">Prenoms</string>
+    <string name="emailcontact">Adresse Email</string>
+    <string name="icone_contact">ces icones sont uniquement pour le contact</string>
+    <string name="localisation">Adresse</string>
+    <string name="lieulocalisation">Dakar, Khar Yallah Boulangerie Bamba</string>
+
+</resources>

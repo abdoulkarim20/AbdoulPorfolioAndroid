@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <!-- set the shadow color here -->
+            <stroke
+                android:width="2dp"
+                android:color="#E5E5E5"/>
+
+            <!-- setting the thickness of shadow (positive value will give shadow on that side) -->
+            <gradient
+                android:startColor="#ffffffff"
+                android:endColor="#ffff"/>
+<!--                android:angle="80"/>-->
+
+<!--            <padding-->
+<!--                android:bottom="2dp"-->
+<!--                android:left="2dp"-->
+<!--                android:right="1dp"-->
+<!--                android:top="1dp" />-->
+            <corners android:radius="20dp" />
+        </shape>
+
+
+        <shape>
+            <solid android:color="#03E5E5E5"/>
+            <corners android:radius="20dp" />
+        </shape>
+
+    </item>
+
+</selector>
